@@ -3,6 +3,6 @@ public class NuevaClase {
         System.out.println("Clase para actualizar");
 
 
-        System.out.println("Modificacion 3 a comprobar");
+        System.out.println("Editando la clase");
     }
 }
