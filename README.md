@@ -1,7 +1,7 @@
 # retogit
 Repositorio para el reto de entornos
 
-![Imagen de Portada](img/codigo.jpg)
+![Imagen de Portada](img/codigo.JPG)
 
 <h1> RETO 2 DE ENTORNOS</h1>
 
