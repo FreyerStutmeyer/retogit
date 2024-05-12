@@ -12,7 +12,7 @@ Para crear el repositorio lo que necesitamos es ir a **mi perfil** de github y d
 
 ## 2 - Realizar subida de carpeta src
 
-En el botón **add file** alado del botón verde **<code>** le doy a upload files e inserto la carpeta **src** del proyecto java, le pongo una descripción para hacer el **commit** y le doy a siguiente.
+En el botón **add file** alado del botón verde **"<code>"** le doy a upload files e inserto la carpeta **src** del proyecto java, le pongo una descripción para hacer el **commit** y le doy a siguiente.
 
 ## 3 - Crea una nueva rama que se llame desarrolloPersona
 
