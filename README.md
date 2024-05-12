@@ -11,6 +11,7 @@ Repositorio para el reto de entornos
 Para crear el repositorio lo que necesitamos es ir a **mi perfil** de github y darle a la ventana de **repositorios** y darle al **boton verde** con imagen de un libro, una vez dentro se le pone el **nombre** que le quieras dar, le pones una **descripción** y lo pones o privado opúblico, en mi caso es público y le das al **boton de crear**.
 
 ## 2 - Realizar subida de carpeta src
+
 En el botón **add file** alado del botón verde **<code>** le doy a upload files e inserto la carpeta **src** del proyecto java, le pongo una descripción para hacer el **commit** y le doy a siguiente.
 
 ## 3 - Crea una nueva rama que se llame desarrolloPersona
